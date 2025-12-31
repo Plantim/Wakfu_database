@@ -1,0 +1,2902 @@
+[
+    {
+        "id": "201",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/201",
+        "nom_donjon": "DONJON MACHINES DE NOX",
+        "BOSS": {
+            "nom": "Protozortemps",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205650.png",
+            "url_monstre": "/bestiary/5650"
+        },
+        "DOMINANT": {
+            "nom": "Machines de Nox Dominante",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205651.png",
+            "url_monstre": "/bestiary/5651"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "198",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/198",
+        "nom_donjon": "DONJON PRIMASSIFS",
+        "BOSS": {
+            "nom": "Imagori",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205632.png",
+            "url_monstre": "/bestiary/5632"
+        },
+        "DOMINANT": {
+            "nom": "Primassif Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205633.png",
+            "url_monstre": "/bestiary/5633"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "197",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/197",
+        "nom_donjon": "DONJON FÉROCIRAPTORS",
+        "BOSS": {
+            "nom": "Fulgurosaure",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205626.png",
+            "url_monstre": "/bestiary/5626"
+        },
+        "DOMINANT": {
+            "nom": "Denver",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205627.png",
+            "url_monstre": "/bestiary/5627"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "199",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/199",
+        "nom_donjon": "DONJON SAVANASTRAUX",
+        "BOSS": {
+            "nom": "Timö le possédé",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205638.png",
+            "url_monstre": "/bestiary/5638"
+        },
+        "DOMINANT": {
+            "nom": "Savanastral Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205639.png",
+            "url_monstre": "/bestiary/5639"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "200",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/200",
+        "nom_donjon": "DONJON CLAN DE BWORKANA",
+        "BOSS": {
+            "nom": "Zulnara, cheffe de guerre",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205644.png",
+            "url_monstre": "/bestiary/5644"
+        },
+        "DOMINANT": {
+            "nom": "Membre du clan de Bworkana Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1114205645.png",
+            "url_monstre": "/bestiary/5645"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "202",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/202",
+        "nom_donjon": "THÉÂTRE INTEMPOREL",
+        "BOSS": {
+            "nom": "Nox",
+            "image": "https://vertylo.github.io/wakassets/monsters/1115005718.png",
+            "url_monstre": "/bestiary/5718"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "203",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/203",
+        "nom_donjon": "CŒUR DE L'HORLOGE DE NOX",
+        "BOSS": {
+            "nom": "Nox",
+            "image": "https://vertylo.github.io/wakassets/monsters/1115005718.png",
+            "url_monstre": "/bestiary/5664"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "183",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/183",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE ULTIME DE LA SHUKRUTE",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "196",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/196",
+        "nom_donjon": "NÉCROMONDE",
+        "BOSS": {
+            "nom": "Toross Mordal",
+            "image": "https://vertylo.github.io/wakassets/monsters/1113105589.png",
+            "url_monstre": "/bestiary/5589"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "188",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/188",
+        "nom_donjon": "DONJON STEAMERS",
+        "BOSS": {
+            "nom": "Sir Comte Flex",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110605400.png",
+            "url_monstre": "/bestiary/5400"
+        },
+        "DOMINANT": {
+            "nom": "Steamer dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110605401.png",
+            "url_monstre": "/bestiary/5401"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Stork l'Ingénieux",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110605402.png",
+            "url_monstre": "/bestiary/5402"
+        }
+    },
+    {
+        "id": "177",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/177",
+        "nom_donjon": "DONJON VIDÉANTS",
+        "BOSS": {
+            "nom": "Ar'Nan, Augure du néant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107505283.png",
+            "url_monstre": "/bestiary/5283"
+        },
+        "DOMINANT": {
+            "nom": "Vidéant Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107505284.png",
+            "url_monstre": "/bestiary/5284"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Ar'Manthe la Religieuse",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107505285.png",
+            "url_monstre": "/bestiary/5285"
+        }
+    },
+    {
+        "id": "178",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/178",
+        "nom_donjon": "DONJON DÉMHORRIBLES",
+        "BOSS": {
+            "nom": "Cratéros, Bourreau de la fin",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107705289.png",
+            "url_monstre": "/bestiary/5289"
+        },
+        "DOMINANT": {
+            "nom": "Démhorrible Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107705290.png",
+            "url_monstre": "/bestiary/5290"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Archibald l'Effroyable",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107705291.png",
+            "url_monstre": "/bestiary/5291"
+        }
+    },
+    {
+        "id": "179",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/179",
+        "nom_donjon": "DONJON ÉGARÉS ?",
+        "BOSS": {
+            "nom": "!@#dh`~",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107905295.png",
+            "url_monstre": "/bestiary/5295"
+        },
+        "DOMINANT": {
+            "nom": "Égaré Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107905296.png",
+            "url_monstre": "/bestiary/5296"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "~`hd#@! l'Incompris",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107905297.png",
+            "url_monstre": "/bestiary/5297"
+        }
+    },
+    {
+        "id": "176",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/176",
+        "nom_donjon": "DONJON PHYTOMORPHES",
+        "BOSS": {
+            "nom": "Vaal'Enthia, Reine-démone",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107305277.png",
+            "url_monstre": "/bestiary/5277"
+        },
+        "DOMINANT": {
+            "nom": "Phytomorphe dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107305278.png",
+            "url_monstre": "/bestiary/5278"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Viil l'Incorruptible",
+            "image": "https://vertylo.github.io/wakassets/monsters/1107305279.png",
+            "url_monstre": "/bestiary/5279"
+        }
+    },
+    {
+        "id": "181",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/181",
+        "nom_donjon": "PALAIS DE RUSHU",
+        "BOSS": {
+            "nom": "Rushu",
+            "image": "https://vertylo.github.io/wakassets/monsters/1108305306.png",
+            "url_monstre": "/bestiary/5306"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "180",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/180",
+        "nom_donjon": "DONJON RAVAGEURS",
+        "BOSS": {
+            "nom": "K'abah'al, Gardien de la route des morts",
+            "image": "https://vertylo.github.io/wakassets/monsters/1108105301.png",
+            "url_monstre": "/bestiary/5301"
+        },
+        "DOMINANT": {
+            "nom": "Glutonny",
+            "image": "https://vertylo.github.io/wakassets/monsters/1108105302.png",
+            "url_monstre": "/bestiary/5302"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Constant l'Éternel",
+            "image": "https://vertylo.github.io/wakassets/monsters/1108105303.png",
+            "url_monstre": "/bestiary/5303"
+        }
+    },
+    {
+        "id": "187",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/187",
+        "nom_donjon": "DONJON POISSEUX ABYSSAUX",
+        "BOSS": {
+            "nom": "Raeliss",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110405394.png",
+            "url_monstre": "/bestiary/5394"
+        },
+        "DOMINANT": {
+            "nom": "Poisseux dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110405395.png",
+            "url_monstre": "/bestiary/5395"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Cire Momoriss",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110405396.png",
+            "url_monstre": "/bestiary/5396"
+        }
+    },
+    {
+        "id": "182",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/182",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE DE LA SHUKRUTE",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "167",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/167",
+        "nom_donjon": "DONJON MANSOTS",
+        "BOSS": {
+            "nom": "Sumorse",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106805247.png",
+            "url_monstre": "/bestiary/5247"
+        },
+        "DOMINANT": {
+            "nom": "Mansot Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106805248.png",
+            "url_monstre": "/bestiary/5248"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Lacrymorse le Larmoyant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106805249.png",
+            "url_monstre": "/bestiary/5249"
+        }
+    },
+    {
+        "id": "163",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/163",
+        "nom_donjon": "DONJON TOUNDRASOIRS",
+        "BOSS": {
+            "nom": "Bufflamboyant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106205188.png",
+            "url_monstre": "/bestiary/5188"
+        },
+        "DOMINANT": {
+            "nom": "Toundrasoir dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106205189.png",
+            "url_monstre": "/bestiary/5189"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Imbuffle l'égocentrique",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106205190.png",
+            "url_monstre": "/bestiary/5190"
+        }
+    },
+    {
+        "id": "175",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/175",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE D'OSAMOSA",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "164",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/164",
+        "nom_donjon": "LA TOUR MINÉRALE",
+        "BOSS": {
+            "nom": "Agonie, Nécromancienne livide",
+            "image": "https://vertylo.github.io/wakassets/monsters/193805229.png",
+            "url_monstre": "/bestiary/5229"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "162",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/162",
+        "nom_donjon": "DONJON CRUSTARGNEUX",
+        "BOSS": {
+            "nom": "Crustacérébro",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106105182.png",
+            "url_monstre": "/bestiary/5182"
+        },
+        "DOMINANT": {
+            "nom": "Crustargneux Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106105183.png",
+            "url_monstre": "/bestiary/5183"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Pinsoumis le rebelle",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106105184.png",
+            "url_monstre": "/bestiary/5184"
+        }
+    },
+    {
+        "id": "219",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/219",
+        "nom_donjon": "NÉO-POINTE DU MONT ZINIT",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": "https://vertylo.github.io/wakassets/bossIllustrations/219.png",
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "218",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/218",
+        "nom_donjon": "NÉO-CITÉ INTERDITE",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "166",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/166",
+        "nom_donjon": "DONJON PLANTIGARDES",
+        "BOSS": {
+            "nom": "Casse-Cours",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106705241.png",
+            "url_monstre": "/bestiary/5241"
+        },
+        "DOMINANT": {
+            "nom": "Plantigarde Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106705242.png",
+            "url_monstre": "/bestiary/5242"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Scoubidours le Morfalours",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106705243.png",
+            "url_monstre": "/bestiary/5243"
+        }
+    },
+    {
+        "id": "161",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/161",
+        "nom_donjon": "DONJON CAGNARDEURS",
+        "BOSS": {
+            "nom": "Scorpiétineur",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106005176.png",
+            "url_monstre": "/bestiary/5176"
+        },
+        "DOMINANT": {
+            "nom": "Cagnardeur Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106005177.png",
+            "url_monstre": "/bestiary/5177"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Scorpitre le blagueur",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106005178.png",
+            "url_monstre": "/bestiary/5178"
+        }
+    },
+    {
+        "id": "173",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/173",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE DU MONT ZINIT",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "172",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/172",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE DE MOON",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "165",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/165",
+        "nom_donjon": "DONJON CARAPATTES",
+        "BOSS": {
+            "nom": "Tortumulte",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106605235.png",
+            "url_monstre": "/bestiary/5235"
+        },
+        "DOMINANT": {
+            "nom": "Carapatte Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106605236.png",
+            "url_monstre": "/bestiary/5236"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Torturpide le vil",
+            "image": "https://vertylo.github.io/wakassets/monsters/1106605237.png",
+            "url_monstre": "/bestiary/5237"
+        }
+    },
+    {
+        "id": "160",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/160",
+        "nom_donjon": "DONJON VANDALIÉNÉS",
+        "BOSS": {
+            "nom": "Phacochemar",
+            "image": "https://vertylo.github.io/wakassets/monsters/1105905170.png",
+            "url_monstre": "/bestiary/5170"
+        },
+        "DOMINANT": {
+            "nom": "Vandaliéné dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1105905171.png",
+            "url_monstre": "/bestiary/5171"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Vandaltonien le malvoyant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1105905172.png",
+            "url_monstre": "/bestiary/5172"
+        }
+    },
+    {
+        "id": "158",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/158",
+        "nom_donjon": "DONJON GERBOUILLE",
+        "BOSS": {
+            "nom": "Maman Gerbouille",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103905131.png",
+            "url_monstre": "/bestiary/5131"
+        },
+        "DOMINANT": {
+            "nom": "Gerbouille Dominante",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103905132.png",
+            "url_monstre": "/bestiary/5132"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Pic-à-choux l'électrique",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103905133.png",
+            "url_monstre": "/bestiary/5133"
+        }
+    },
+    {
+        "id": "156",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/156",
+        "nom_donjon": "CANYON DES FLÉOPARDS",
+        "BOSS": {
+            "nom": "Fléogre",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103105052.png",
+            "url_monstre": "/bestiary/5052"
+        },
+        "DOMINANT": {
+            "nom": "Fléocculte",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103105050.png",
+            "url_monstre": "/bestiary/5050"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Fléomérique le Poète",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103105051.png",
+            "url_monstre": "/bestiary/5051"
+        }
+    },
+    {
+        "id": "159",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/159",
+        "nom_donjon": "USINE HIBOURG",
+        "BOSS": {
+            "nom": "Granduk Hibourg",
+            "image": "https://vertylo.github.io/wakassets/monsters/1104005137.png",
+            "url_monstre": "/bestiary/5137"
+        },
+        "DOMINANT": {
+            "nom": "Hibourg Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1104005138.png",
+            "url_monstre": "/bestiary/5138"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Archibourg l'Archimonstre Hibourg",
+            "image": "https://vertylo.github.io/wakassets/monsters/1104005139.png",
+            "url_monstre": "/bestiary/5139"
+        }
+    },
+    {
+        "id": "157",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/157",
+        "nom_donjon": "TOMBEAU DE PANDALA",
+        "BOSS": {
+            "nom": "Fantôme Tanukouï-San",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103205059.png",
+            "url_monstre": "/bestiary/5059"
+        },
+        "DOMINANT": {
+            "nom": "Fantôme de Pandala Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103205057.png",
+            "url_monstre": "/bestiary/5057"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Fléorripilant le Fantôme Fléopard",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103205058.png",
+            "url_monstre": "/bestiary/5058"
+        }
+    },
+    {
+        "id": "155",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/155",
+        "nom_donjon": "CITÉ INTERDITE",
+        "BOSS": {
+            "nom": "Pandore",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103005046.png",
+            "url_monstre": "/bestiary/5046"
+        },
+        "DOMINANT": {
+            "nom": "Pandissidan Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103005044.png",
+            "url_monstre": "/bestiary/5044"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Pandémik le Malade",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103005045.png",
+            "url_monstre": "/bestiary/5045"
+        }
+    },
+    {
+        "id": "153",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/153",
+        "nom_donjon": "LA PATAPOUTRERIE",
+        "BOSS": {
+            "nom": "Mamapoutre",
+            "image": "https://vertylo.github.io/wakassets/monsters/13482452.png",
+            "url_monstre": "/bestiary/4923"
+        },
+        "DOMINANT": {
+            "nom": "Patapoutre Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/134601705.png",
+            "url_monstre": "/bestiary/2127"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Papapoutre le Rigide",
+            "image": "https://vertylo.github.io/wakassets/monsters/134602127.png",
+            "url_monstre": "/bestiary/4853"
+        }
+    },
+    {
+        "id": "174",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/174",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE D'AMAKNA",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "170",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/170",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE DE FRIGOST",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "213",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/213",
+        "nom_donjon": "NÉO-ANTRE DU CORBEAU NOIR",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": "https://vertylo.github.io/wakassets/bossIllustrations/213.png",
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "210",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/210",
+        "nom_donjon": "NÉO-DONJON MARTEAUX-AIGRIS",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "193",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/193",
+        "nom_donjon": "COMPOST DU GRAND POTOFEU",
+        "BOSS": {
+            "nom": "Potofeu, Grand maître culinaire",
+            "image": "https://vertylo.github.io/wakassets/monsters/1111705471.png",
+            "url_monstre": "/bestiary/5471"
+        },
+        "DOMINANT": {
+            "nom": "Parasicawotte Dominante",
+            "image": "https://vertylo.github.io/wakassets/monsters/1111705472.png",
+            "url_monstre": "/bestiary/5472"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Ougiptien le maudit",
+            "image": "https://vertylo.github.io/wakassets/monsters/1111705473.png",
+            "url_monstre": "/bestiary/5473"
+        }
+    },
+    {
+        "id": "214",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/214",
+        "nom_donjon": "NÉO-AILE DE L'AMBASSADRICE",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "142",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/142",
+        "nom_donjon": "DONJON FLAQUEUX",
+        "BOSS": {
+            "nom": "Flaque Royale",
+            "image": "https://vertylo.github.io/wakassets/monsters/122602272.png",
+            "url_monstre": "/bestiary/4720"
+        },
+        "DOMINANT": {
+            "nom": "Flaqueux Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/122602123.png",
+            "url_monstre": "/bestiary/2123"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "FlacFlic le Ponctuel",
+            "image": "https://vertylo.github.io/wakassets/monsters/122601633.png",
+            "url_monstre": "/bestiary/1633"
+        }
+    },
+    {
+        "id": "152",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/152",
+        "nom_donjon": "BLOPÉRA",
+        "BOSS": {
+            "nom": "Blopgang Amadeus Blopzart",
+            "image": "https://vertylo.github.io/wakassets/monsters/195604780.png",
+            "url_monstre": "/bestiary/4780"
+        },
+        "DOMINANT": {
+            "nom": "Blop Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/118800992.png",
+            "url_monstre": "/bestiary/4781"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Blopale le scintillant",
+            "image": "https://vertylo.github.io/wakassets/monsters/137201736.png",
+            "url_monstre": "/bestiary/4782"
+        }
+    },
+    {
+        "id": "171",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/171",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE DE BONTA",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "186",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/186",
+        "nom_donjon": "DONJON MARTEAUX-AIGRIS",
+        "BOSS": {
+            "nom": "Goël le golem",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110205388.png",
+            "url_monstre": "/bestiary/5388"
+        },
+        "DOMINANT": {
+            "nom": "Marteau-Aigri dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110205389.png",
+            "url_monstre": "/bestiary/5389"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Protogolem",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110205390.png",
+            "url_monstre": "/bestiary/5390"
+        }
+    },
+    {
+        "id": "192",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/192",
+        "nom_donjon": "RUCHE-MÈRE SABLÉOPTÈRE",
+        "BOSS": {
+            "nom": "Bombyxolite endoptérygote",
+            "image": "https://vertylo.github.io/wakassets/monsters/1111905478.png",
+            "url_monstre": "/bestiary/5478"
+        },
+        "DOMINANT": {
+            "nom": "Scarazur Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1111905479.png",
+            "url_monstre": "/bestiary/5479"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Archéobombyx l'épicé",
+            "image": "https://vertylo.github.io/wakassets/monsters/1111905480.png",
+            "url_monstre": "/bestiary/5480"
+        }
+    },
+    {
+        "id": "215",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/215",
+        "nom_donjon": "NÉO-DONJON ABRAKNYDE",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "216",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/216",
+        "nom_donjon": "NÉO-CHÂTEAU DU WA WABBIT",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "189",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/189",
+        "nom_donjon": "TOUR DES MISS MOCHES",
+        "BOSS": {
+            "nom": "Lela",
+            "image": null,
+            "url_monstre": "/bestiary/5445"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "144",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/144",
+        "nom_donjon": "ROUB'BAR",
+        "BOSS": {
+            "nom": "Remington Smisse",
+            "image": "https://vertylo.github.io/wakassets/monsters/197902018.png",
+            "url_monstre": "/bestiary/2018"
+        },
+        "DOMINANT": {
+            "nom": "Roublard Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/120201407.png",
+            "url_monstre": "/bestiary/5018"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Rouflaket le Gentleman",
+            "image": "https://vertylo.github.io/wakassets/monsters/197905017.png",
+            "url_monstre": "/bestiary/5017"
+        }
+    },
+    {
+        "id": "143",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/143",
+        "nom_donjon": "LA PICHINE",
+        "BOSS": {
+            "nom": "Zespadon Noir",
+            "image": "https://vertylo.github.io/wakassets/monsters/131501696.png",
+            "url_monstre": "/bestiary/4727"
+        },
+        "DOMINANT": {
+            "nom": "Pichon Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/131502114.png",
+            "url_monstre": "/bestiary/2114"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Pichakoté le Dégoûtant",
+            "image": "https://vertylo.github.io/wakassets/monsters/131501638.png",
+            "url_monstre": "/bestiary/1638"
+        }
+    },
+    {
+        "id": "211",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/211",
+        "nom_donjon": "NÉO-DOMAINE DU PETIT GROIN",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "139",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/139",
+        "nom_donjon": "DONJON RIKTUS ELITE",
+        "BOSS": {
+            "nom": "Le Riktus Masqué",
+            "image": "https://vertylo.github.io/wakassets/monsters/120501771.png",
+            "url_monstre": "/bestiary/4538"
+        },
+        "DOMINANT": {
+            "nom": "Riktus Elite Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/120501758.png",
+            "url_monstre": "/bestiary/5011"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Rictus l'expressif",
+            "image": "https://vertylo.github.io/wakassets/monsters/120501170.png",
+            "url_monstre": "/bestiary/5012"
+        }
+    },
+    {
+        "id": "149",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/149",
+        "nom_donjon": "LE LAMPIONAUTE",
+        "BOSS": {
+            "nom": "Javého",
+            "image": "https://vertylo.github.io/wakassets/monsters/129402228.png",
+            "url_monstre": "/bestiary/4924"
+        },
+        "DOMINANT": {
+            "nom": "Encapuchonné Dominant",
+            "image": null,
+            "url_monstre": "/bestiary/5016"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Capuchino l'énergisant",
+            "image": "https://vertylo.github.io/wakassets/monsters/129401464.png",
+            "url_monstre": "/bestiary/5015"
+        }
+    },
+    {
+        "id": "148",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/148",
+        "nom_donjon": "DONJON ABRAKNYDE",
+        "BOSS": {
+            "nom": "Chêne Mou",
+            "image": "https://vertylo.github.io/wakassets/monsters/104804874.png",
+            "url_monstre": "/bestiary/4874"
+        },
+        "DOMINANT": {
+            "nom": "Abraknyde Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/104802121.png",
+            "url_monstre": "/bestiary/2121"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Abrasif le décapant",
+            "image": "https://vertylo.github.io/wakassets/monsters/104800398.png",
+            "url_monstre": "/bestiary/4998"
+        }
+    },
+    {
+        "id": "194",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/194",
+        "nom_donjon": "TOMBEAU DE TAL KASHA",
+        "BOSS": {
+            "nom": "Tal Kasha",
+            "image": "https://vertylo.github.io/wakassets/monsters/109605000.png",
+            "url_monstre": "/bestiary/5500"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "212",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/212",
+        "nom_donjon": "NÉO-CHÂTEAU DE WAGNAR",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "217",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/217",
+        "nom_donjon": "NÉO-ROUB'BAR",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "154",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/154",
+        "nom_donjon": "SOURCE DU MAL",
+        "BOSS": {
+            "nom": "Bulbrute",
+            "image": "https://vertylo.github.io/wakassets/monsters/1102905040.png",
+            "url_monstre": "/bestiary/5040"
+        },
+        "DOMINANT": {
+            "nom": "Plantala Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1102905038.png",
+            "url_monstre": "/bestiary/5038"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Zarbi l'inhabituel",
+            "image": "https://vertylo.github.io/wakassets/monsters/1102905039.png",
+            "url_monstre": "/bestiary/5039"
+        }
+    },
+    {
+        "id": "150",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/150",
+        "nom_donjon": "NÉCROPOIL DE MORBAX",
+        "BOSS": {
+            "nom": "Chaferfu, roi Chafer",
+            "image": "https://vertylo.github.io/wakassets/monsters/104701707.png",
+            "url_monstre": "/bestiary/4739"
+        },
+        "DOMINANT": {
+            "nom": "Chafer Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/104701363.png",
+            "url_monstre": "/bestiary/5020"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Chaférimé le dépassé",
+            "image": "https://vertylo.github.io/wakassets/monsters/104701707.png",
+            "url_monstre": "/bestiary/5019"
+        }
+    },
+    {
+        "id": "151",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/151",
+        "nom_donjon": "SCARRIÈRE ABANDONNÉE",
+        "BOSS": {
+            "nom": "Scaraboss",
+            "image": null,
+            "url_monstre": "/bestiary/4909"
+        },
+        "DOMINANT": {
+            "nom": "Scara Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/128302125.png",
+            "url_monstre": "/bestiary/2125"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Scaramel le Fondant",
+            "image": "https://vertylo.github.io/wakassets/monsters/128301738.png",
+            "url_monstre": "/bestiary/1749"
+        }
+    },
+    {
+        "id": "146",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/146",
+        "nom_donjon": "TRUCHIÈRE ABANDONNÉE",
+        "BOSS": {
+            "nom": "Hongrue, Haute Truche",
+            "image": "https://vertylo.github.io/wakassets/monsters/128802273.png",
+            "url_monstre": "/bestiary/4871"
+        },
+        "DOMINANT": {
+            "nom": "Truche Dominante",
+            "image": "https://vertylo.github.io/wakassets/monsters/128802126.png",
+            "url_monstre": "/bestiary/2126"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Truduk le Rondouillard",
+            "image": "https://vertylo.github.io/wakassets/monsters/128801631.png",
+            "url_monstre": "/bestiary/1631"
+        }
+    },
+    {
+        "id": "145",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/145",
+        "nom_donjon": "DOMAINE DU PETIT GROIN",
+        "BOSS": {
+            "nom": "Gligli Royal",
+            "image": "https://vertylo.github.io/wakassets/monsters/100701727.png",
+            "url_monstre": "/bestiary/4763"
+        },
+        "DOMINANT": {
+            "nom": "Gligli Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/100702119.png",
+            "url_monstre": "/bestiary/4764"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Sangria le Fruité",
+            "image": null,
+            "url_monstre": "/bestiary/4765"
+        }
+    },
+    {
+        "id": "147",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/147",
+        "nom_donjon": "PALAIS DU TSU",
+        "BOSS": {
+            "nom": "Tsar Tsu Tsu",
+            "image": "https://vertylo.github.io/wakassets/monsters/100601278.png",
+            "url_monstre": "/bestiary/4918"
+        },
+        "DOMINANT": {
+            "nom": "Boo Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/120002120.png",
+            "url_monstre": "/bestiary/2120"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Boorboopoopoo",
+            "image": "https://vertylo.github.io/wakassets/monsters/120001277.png",
+            "url_monstre": "/bestiary/1639"
+        }
+    },
+    {
+        "id": "169",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/169",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE DE SUFOKIA",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "141",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/141",
+        "nom_donjon": "KOKOKOLANTHA",
+        "BOSS": {
+            "nom": "Grokokolantha",
+            "image": "https://vertylo.github.io/wakassets/monsters/135501703.png",
+            "url_monstre": "/bestiary/4731"
+        },
+        "DOMINANT": {
+            "nom": "Kokoko Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/135502116.png",
+            "url_monstre": "/bestiary/4738"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Kokoblong le Vertical",
+            "image": "https://vertylo.github.io/wakassets/monsters/135502116.png",
+            "url_monstre": "/bestiary/4737"
+        }
+    },
+    {
+        "id": "140",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/140",
+        "nom_donjon": "CHÂTEAU DES CWABES",
+        "BOSS": {
+            "nom": "Cwabe Royal",
+            "image": "https://vertylo.github.io/wakassets/monsters/132602285.png",
+            "url_monstre": "/bestiary/4754"
+        },
+        "DOMINANT": {
+            "nom": "Cwabe Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/132602115.png",
+            "url_monstre": "/bestiary/4753"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Cwalbinos le Blafard",
+            "image": "https://vertylo.github.io/wakassets/monsters/177804154.png",
+            "url_monstre": "/bestiary/4752"
+        }
+    },
+    {
+        "id": "138",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/138",
+        "nom_donjon": "REPAIRE DES MAGIK RIKTUS",
+        "BOSS": {
+            "nom": "Chapo Magik",
+            "image": "https://vertylo.github.io/wakassets/monsters/120504520.png",
+            "url_monstre": "/bestiary/4520"
+        },
+        "DOMINANT": {
+            "nom": "Magik Riktus Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/120501171.png",
+            "url_monstre": "/bestiary/5008"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Chapoto l'amical",
+            "image": "https://vertylo.github.io/wakassets/monsters/120504520.png",
+            "url_monstre": "/bestiary/5010"
+        }
+    },
+    {
+        "id": "136",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/136",
+        "nom_donjon": "LA MONTAGNE ADEZIEU",
+        "BOSS": {
+            "nom": "Craqueleur Royal",
+            "image": "https://vertylo.github.io/wakassets/monsters/129002198.png",
+            "url_monstre": "/bestiary/4519"
+        },
+        "DOMINANT": {
+            "nom": "Craqueleur Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/129004369.png",
+            "url_monstre": "/bestiary/4369"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Craqnoix le Gêneur",
+            "image": "https://vertylo.github.io/wakassets/monsters/129004368.png",
+            "url_monstre": "/bestiary/4368"
+        }
+    },
+    {
+        "id": "9",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/9",
+        "nom_donjon": "AILE DE L'AMBASSADRICE",
+        "BOSS": {
+            "nom": "Kya, Missiz Frizz",
+            "image": "https://vertylo.github.io/wakassets/monsters/150002348.png",
+            "url_monstre": "/bestiary/2348"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "34",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/34",
+        "nom_donjon": "DONJON MOLLUSKY",
+        "BOSS": {
+            "nom": "Kralaboss",
+            "image": "https://vertylo.github.io/wakassets/monsters/122102178.png",
+            "url_monstre": "/bestiary/4240"
+        },
+        "DOMINANT": {
+            "nom": "Vertigo",
+            "image": "https://vertylo.github.io/wakassets/monsters/188104256.png",
+            "url_monstre": "/bestiary/4256"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Kraken",
+            "image": "https://vertylo.github.io/wakassets/monsters/188104255.png",
+            "url_monstre": "/bestiary/4255"
+        }
+    },
+    {
+        "id": "115",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/115",
+        "nom_donjon": "LE VIGNOBLE IGNOBLE",
+        "BOSS": {
+            "nom": "Grande Prêtresse Sydonia",
+            "image": "https://vertylo.github.io/wakassets/monsters/182204060.png",
+            "url_monstre": "/bestiary/4060"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "95",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/95",
+        "nom_donjon": "FABRIQUE MÉKA",
+        "BOSS": {
+            "nom": "Vertox l'Intemporel",
+            "image": "https://vertylo.github.io/wakassets/monsters/169303398.png",
+            "url_monstre": "/bestiary/3398"
+        },
+        "DOMINANT": {
+            "nom": "Lav'Haus le Chronométré",
+            "image": "https://vertylo.github.io/wakassets/monsters/169304355.png",
+            "url_monstre": "/bestiary/4355"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Rib'Eri le Routourneur",
+            "image": "https://vertylo.github.io/wakassets/monsters/169304357.png",
+            "url_monstre": "/bestiary/4357"
+        }
+    },
+    {
+        "id": "99",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/99",
+        "nom_donjon": "TEMPLE DU GRAND ORROK",
+        "BOSS": {
+            "nom": "Grand Orrok",
+            "image": "https://vertylo.github.io/wakassets/monsters/173803587.png",
+            "url_monstre": "/bestiary/3587"
+        },
+        "DOMINANT": {
+            "nom": "Korbelle Boloss",
+            "image": "https://vertylo.github.io/wakassets/monsters/173803702.png",
+            "url_monstre": "/bestiary/3702"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Orrokimarou le Rampant",
+            "image": "https://vertylo.github.io/wakassets/monsters/173804370.png",
+            "url_monstre": "/bestiary/4370"
+        }
+    },
+    {
+        "id": "96",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/96",
+        "nom_donjon": "DONJON E-BOU",
+        "BOSS": {
+            "nom": "Raipiode l'Infréquençable",
+            "image": "https://vertylo.github.io/wakassets/monsters/169203399.png",
+            "url_monstre": "/bestiary/3399"
+        },
+        "DOMINANT": {
+            "nom": "Saunic le Supersonique",
+            "image": "https://vertylo.github.io/wakassets/monsters/169204356.png",
+            "url_monstre": "/bestiary/4356"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "L'Oiseau du Temps",
+            "image": "https://vertylo.github.io/wakassets/monsters/169204358.png",
+            "url_monstre": "/bestiary/4358"
+        }
+    },
+    {
+        "id": "135",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/135",
+        "nom_donjon": "DIMENSION-OBJET D'OMBRAGE",
+        "BOSS": {
+            "nom": "Ombrage",
+            "image": "https://vertylo.github.io/wakassets/monsters/143604770.png",
+            "url_monstre": "/bestiary/4770"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "207",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/207",
+        "nom_donjon": "NÉO-PÂTURAGES DES BOUFTOUS",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "65",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/65",
+        "nom_donjon": "LARVENTURA",
+        "BOSS": {
+            "nom": "Shin Larve",
+            "image": "https://vertylo.github.io/wakassets/monsters/101402157.png",
+            "url_monstre": "/bestiary/2157"
+        },
+        "DOMINANT": {
+            "nom": "Larve Dominante",
+            "image": "https://vertylo.github.io/wakassets/monsters/101404096.png",
+            "url_monstre": "/bestiary/4096"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Lartifice l'Explosive",
+            "image": "https://vertylo.github.io/wakassets/monsters/101404097.png",
+            "url_monstre": "/bestiary/4097"
+        }
+    },
+    {
+        "id": "137",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/137",
+        "nom_donjon": "LE PAPATURAGE ROYAL",
+        "BOSS": {
+            "nom": "Moogrr Royale",
+            "image": "https://vertylo.github.io/wakassets/monsters/121802271.png",
+            "url_monstre": "/bestiary/4758"
+        },
+        "DOMINANT": {
+            "nom": "Moogrron Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/121802118.png",
+            "url_monstre": "/bestiary/2118"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Moumoute la Postiche",
+            "image": null,
+            "url_monstre": "/bestiary/1632"
+        }
+    },
+    {
+        "id": "133",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/133",
+        "nom_donjon": "LA TOUR MINÉRALE",
+        "BOSS": {
+            "nom": "Agonie la Déterrée",
+            "image": "https://vertylo.github.io/wakassets/monsters/193804651.png",
+            "url_monstre": "/bestiary/4651"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "124",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/124",
+        "nom_donjon": "DOMAINE DE LA TROUFFE SALÉE",
+        "BOSS": {
+            "nom": "Fripon",
+            "image": "https://vertylo.github.io/wakassets/monsters/187404254.png",
+            "url_monstre": "/bestiary/4254"
+        },
+        "DOMINANT": {
+            "nom": "Phourniqué le Propageur",
+            "image": "https://vertylo.github.io/wakassets/monsters/187404270.png",
+            "url_monstre": "/bestiary/4270"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Gris XIII",
+            "image": "https://vertylo.github.io/wakassets/monsters/187404269.png",
+            "url_monstre": "/bestiary/4269"
+        }
+    },
+    {
+        "id": "63",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/63",
+        "nom_donjon": "LE POT D'HAGËN-GLASS",
+        "BOSS": {
+            "nom": "Hagën-Glass",
+            "image": "https://vertylo.github.io/wakassets/monsters/149702343.png",
+            "url_monstre": "/bestiary/2343"
+        },
+        "DOMINANT": {
+            "nom": "Crakéduslip le Givré",
+            "image": "https://vertylo.github.io/wakassets/monsters/14974382.png",
+            "url_monstre": "/bestiary/4382"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "83",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/83",
+        "nom_donjon": "DONJON CACTERRE",
+        "BOSS": {
+            "nom": "Piktus",
+            "image": "https://vertylo.github.io/wakassets/monsters/160802972.png",
+            "url_monstre": "/bestiary/2972"
+        },
+        "DOMINANT": {
+            "nom": "Esprit Ancestral",
+            "image": "https://vertylo.github.io/wakassets/monsters/160802982.png",
+            "url_monstre": "/bestiary/2983"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Troolgrodyte",
+            "image": "https://vertylo.github.io/wakassets/monsters/161502992.png",
+            "url_monstre": "/bestiary/2992"
+        }
+    },
+    {
+        "id": "101",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/101",
+        "nom_donjon": "LE MISOLÉE",
+        "BOSS": {
+            "nom": "Viktoria-France Kenstein",
+            "image": "https://vertylo.github.io/wakassets/monsters/177103735.png",
+            "url_monstre": "/bestiary/3735"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "La Dame Blanche",
+            "image": "https://vertylo.github.io/wakassets/monsters/177104393.png",
+            "url_monstre": "/bestiary/4393"
+        }
+    },
+    {
+        "id": "26",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/26",
+        "nom_donjon": "PIOU LAHOUPE",
+        "BOSS": {
+            "nom": "Piou Royal",
+            "image": "https://vertylo.github.io/wakassets/monsters/101501187.png",
+            "url_monstre": "/bestiary/1187"
+        },
+        "DOMINANT": {
+            "nom": "Piou Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/101504093.png",
+            "url_monstre": "/bestiary/4093"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Pewpew l'Artilleur",
+            "image": "https://vertylo.github.io/wakassets/monsters/101504100.png",
+            "url_monstre": "/bestiary/4100"
+        }
+    },
+    {
+        "id": "104",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/104",
+        "nom_donjon": "DONJON DES TROPIKES",
+        "BOSS": {
+            "nom": "Koko le Nutt",
+            "image": "https://vertylo.github.io/wakassets/monsters/179403865.png",
+            "url_monstre": "/bestiary/3865"
+        },
+        "DOMINANT": {
+            "nom": "Ben'Koko",
+            "image": "https://vertylo.github.io/wakassets/monsters/179404354.png",
+            "url_monstre": "/bestiary/4354"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "126",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/126",
+        "nom_donjon": "TANIÈRE DES BLÉROX",
+        "BOSS": {
+            "nom": "Blérwitch le Furax",
+            "image": "https://vertylo.github.io/wakassets/monsters/186604318.png",
+            "url_monstre": "/bestiary/4318"
+        },
+        "DOMINANT": {
+            "nom": "Eyeliner la Blérageuse",
+            "image": "https://vertylo.github.io/wakassets/monsters/186604328.png",
+            "url_monstre": "/bestiary/4328"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Uhu Le Mielleux",
+            "image": "https://vertylo.github.io/wakassets/monsters/186604329.png",
+            "url_monstre": "/bestiary/4329"
+        }
+    },
+    {
+        "id": "87",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/87",
+        "nom_donjon": "DONJON ENUTROSOR",
+        "BOSS": {
+            "nom": "Jamall'Auneth le Porte-clés",
+            "image": "https://vertylo.github.io/wakassets/monsters/163603094.png",
+            "url_monstre": "/bestiary/3094"
+        },
+        "DOMINANT": {
+            "nom": "Kamarad la Partageuse",
+            "image": "https://vertylo.github.io/wakassets/monsters/162904375.png",
+            "url_monstre": "/bestiary/4375"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Sir Urh le Renfermé",
+            "image": "https://vertylo.github.io/wakassets/monsters/163403101.png",
+            "url_monstre": "/bestiary/3175"
+        }
+    },
+    {
+        "id": "46",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/46",
+        "nom_donjon": "DONJON ARAKNE",
+        "BOSS": {
+            "nom": "Veuve Noire",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103805107.png",
+            "url_monstre": "/bestiary/5107"
+        },
+        "DOMINANT": {
+            "nom": "Arakne Dominante",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103805108.png",
+            "url_monstre": "/bestiary/5108"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Abrakne Kadabrakne la Magicienne",
+            "image": "https://vertylo.github.io/wakassets/monsters/1103805109.png",
+            "url_monstre": "/bestiary/5109"
+        }
+    },
+    {
+        "id": "73",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/73",
+        "nom_donjon": "PALAIS LENALD",
+        "BOSS": {
+            "nom": "Lin Shi, Empeleul Lenald",
+            "image": "https://vertylo.github.io/wakassets/monsters/154502555.png",
+            "url_monstre": "/bestiary/2556"
+        },
+        "DOMINANT": {
+            "nom": "Le Lenald Glis",
+            "image": "https://vertylo.github.io/wakassets/monsters/154504385.png",
+            "url_monstre": "/bestiary/4385"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Lenaldix",
+            "image": "https://vertylo.github.io/wakassets/monsters/154502554.png",
+            "url_monstre": "/bestiary/2630"
+        }
+    },
+    {
+        "id": "110",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/110",
+        "nom_donjon": "DONJON DES CROCODAILLES",
+        "BOSS": {
+            "nom": "Roi Dunîl",
+            "image": "https://vertylo.github.io/wakassets/monsters/181103971.png",
+            "url_monstre": "/bestiary/3971"
+        },
+        "DOMINANT": {
+            "nom": "Alecro Crocro",
+            "image": "https://vertylo.github.io/wakassets/monsters/181104352.png",
+            "url_monstre": "/bestiary/4352"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "13",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/13",
+        "nom_donjon": "ACADÉMIE TROOL",
+        "BOSS": {
+            "nom": "El Pochito",
+            "image": "https://vertylo.github.io/wakassets/monsters/152602443.png",
+            "url_monstre": "/bestiary/2443"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "117",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/117",
+        "nom_donjon": "ANTRE DE NOGORD L'EZARÉLÉ",
+        "BOSS": {
+            "nom": "Nogord l'Ezarélé",
+            "image": "https://vertylo.github.io/wakassets/monsters/143603433.png",
+            "url_monstre": "/bestiary/3433"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "121",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/121",
+        "nom_donjon": "REPAIRE DE KALI",
+        "BOSS": {
+            "nom": "Kali",
+            "image": "https://vertylo.github.io/wakassets/monsters/187204217.png",
+            "url_monstre": "/bestiary/4217"
+        },
+        "DOMINANT": {
+            "nom": "Boully le Racketteur",
+            "image": "https://vertylo.github.io/wakassets/monsters/187204232.png",
+            "url_monstre": "/bestiary/4232"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Soeur Soudeuse la Fondue",
+            "image": "https://vertylo.github.io/wakassets/monsters/187204304.png",
+            "url_monstre": "/bestiary/4304"
+        }
+    },
+    {
+        "id": "81",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/81",
+        "nom_donjon": "L'ANTRE OUBLIÉE",
+        "BOSS": {
+            "nom": "Grand Bouftou Sauvage",
+            "image": "https://vertylo.github.io/wakassets/monsters/158102768.png",
+            "url_monstre": "/bestiary/2768"
+        },
+        "DOMINANT": {
+            "nom": "Boufalobil le Chevaucheur",
+            "image": "https://vertylo.github.io/wakassets/monsters/158104401.png",
+            "url_monstre": "/bestiary/4401"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Bouflaquette le Chevelu",
+            "image": "https://vertylo.github.io/wakassets/monsters/158104371.png",
+            "url_monstre": "/bestiary/4371"
+        }
+    },
+    {
+        "id": "106",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/106",
+        "nom_donjon": "DONJON DES KANNIBOULS",
+        "BOSS": {
+            "nom": "Kannistère",
+            "image": "https://vertylo.github.io/wakassets/monsters/179403864.png",
+            "url_monstre": "/bestiary/3864"
+        },
+        "DOMINANT": {
+            "nom": "Kanniboulombre",
+            "image": "https://vertylo.github.io/wakassets/monsters/179403979.png",
+            "url_monstre": "/bestiary/4351"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "67",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/67",
+        "nom_donjon": "JAWDIN DE LA WEINE",
+        "BOSS": {
+            "nom": "Gwand Viziw Wabbit",
+            "image": "https://vertylo.github.io/wakassets/monsters/155202570.png",
+            "url_monstre": "/bestiary/2570"
+        },
+        "DOMINANT": {
+            "nom": "Wambo",
+            "image": "https://vertylo.github.io/wakassets/monsters/155202583.png",
+            "url_monstre": "/bestiary/4541"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Jafaw le génie",
+            "image": "https://vertylo.github.io/wakassets/monsters/154802563.png",
+            "url_monstre": "/bestiary/5532"
+        }
+    },
+    {
+        "id": "131",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/131",
+        "nom_donjon": "POINTE DU MONT ZINIT",
+        "BOSS": {
+            "nom": "Ogrest",
+            "image": "https://vertylo.github.io/wakassets/monsters/1300060.png",
+            "url_monstre": "/bestiary/4378"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "49",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/49",
+        "nom_donjon": "CHÂTEAU DE WAGNAR",
+        "BOSS": {
+            "nom": "Vampyro",
+            "image": "https://vertylo.github.io/wakassets/monsters/140501836.png",
+            "url_monstre": "/bestiary/1836"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "62",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/62",
+        "nom_donjon": "LE GLAGLACIER CORNU",
+        "BOSS": {
+            "nom": "Lady Glagla",
+            "image": "https://vertylo.github.io/wakassets/monsters/150702363.png",
+            "url_monstre": "/bestiary/2363"
+        },
+        "DOMINANT": {
+            "nom": "PumGlagla",
+            "image": "https://vertylo.github.io/wakassets/monsters/150702372.png",
+            "url_monstre": "/bestiary/2372"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Glaglaviot le Raclé",
+            "image": "https://vertylo.github.io/wakassets/monsters/150704381.png",
+            "url_monstre": "/bestiary/4381"
+        }
+    },
+    {
+        "id": "184",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/184",
+        "nom_donjon": "DONJON ÉQUIPAGE DU POULPE",
+        "BOSS": {
+            "nom": "Pohl le poulpe",
+            "image": "https://vertylo.github.io/wakassets/monsters/1109805376.png",
+            "url_monstre": "/bestiary/5376"
+        },
+        "DOMINANT": {
+            "nom": "Forban Kahl",
+            "image": "https://vertylo.github.io/wakassets/monsters/1109805377.png",
+            "url_monstre": "/bestiary/5377"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Protopoulpe",
+            "image": "https://vertylo.github.io/wakassets/monsters/1109805378.png",
+            "url_monstre": "/bestiary/5378"
+        }
+    },
+    {
+        "id": "53",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/53",
+        "nom_donjon": "CHUCHOBASE",
+        "BOSS": {
+            "nom": "Maître Chuchoku",
+            "image": "https://vertylo.github.io/wakassets/monsters/145102100.png",
+            "url_monstre": "/bestiary/2100"
+        },
+        "DOMINANT": {
+            "nom": "Chuchen l'Indépendant",
+            "image": "https://vertylo.github.io/wakassets/monsters/145102076.png",
+            "url_monstre": "/bestiary/2134"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Chuchoteur Chachatophile",
+            "image": "https://vertylo.github.io/wakassets/monsters/145102076.png",
+            "url_monstre": "/bestiary/2489"
+        }
+    },
+    {
+        "id": "109",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/109",
+        "nom_donjon": "DONJON DES KANNIVORES",
+        "BOSS": {
+            "nom": "Grozépine",
+            "image": "https://vertylo.github.io/wakassets/monsters/179403866.png",
+            "url_monstre": "/bestiary/3866"
+        },
+        "DOMINANT": {
+            "nom": "Toxik la plante Magik",
+            "image": "https://vertylo.github.io/wakassets/monsters/179404353.png",
+            "url_monstre": "/bestiary/4353"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "69",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/69",
+        "nom_donjon": "DONJON GELÉE",
+        "BOSS": {
+            "nom": "Empereur Gelax",
+            "image": "https://vertylo.github.io/wakassets/monsters/1300035.png",
+            "url_monstre": "/bestiary/1345"
+        },
+        "DOMINANT": {
+            "nom": "Gelée Réglisse",
+            "image": null,
+            "url_monstre": "/bestiary/2475"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Prince Gelu",
+            "image": "https://vertylo.github.io/wakassets/monsters/126004390.png",
+            "url_monstre": "/bestiary/4390"
+        }
+    },
+    {
+        "id": "11",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/11",
+        "nom_donjon": "L'ARÈNE DANSANTE",
+        "BOSS": {
+            "nom": "Bilby Queen",
+            "image": "https://vertylo.github.io/wakassets/monsters/153302469.png",
+            "url_monstre": "/bestiary/2469"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "27",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/27",
+        "nom_donjon": "LE TOFULAILLER",
+        "BOSS": {
+            "nom": "Tofu Royal",
+            "image": "https://vertylo.github.io/wakassets/monsters/100100050.png",
+            "url_monstre": "/bestiary/1259"
+        },
+        "DOMINANT": {
+            "nom": "Tofu Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/100104092.png",
+            "url_monstre": "/bestiary/4092"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Griffu l'Acéré",
+            "image": "https://vertylo.github.io/wakassets/monsters/100104101.png",
+            "url_monstre": "/bestiary/4101"
+        }
+    },
+    {
+        "id": "134",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/134",
+        "nom_donjon": "LA TOUR MINÉRALE",
+        "BOSS": {
+            "nom": "Agonie Coeur-Cristal",
+            "image": "https://vertylo.github.io/wakassets/monsters/193804664.png",
+            "url_monstre": "/bestiary/4664"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "12",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/12",
+        "nom_donjon": "LES RATACOMBES",
+        "BOSS": {
+            "nom": "Ratachouille",
+            "image": "https://vertylo.github.io/wakassets/monsters/107702313.png",
+            "url_monstre": "/bestiary/2313"
+        },
+        "DOMINANT": {
+            "nom": "Ratagasd le Marron",
+            "image": null,
+            "url_monstre": "/bestiary/2129"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Ratafia le Titubant",
+            "image": "https://vertylo.github.io/wakassets/monsters/107704481.png",
+            "url_monstre": "/bestiary/4481"
+        }
+    },
+    {
+        "id": "127",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/127",
+        "nom_donjon": "VOLCAN OR'HODRUIN",
+        "BOSS": {
+            "nom": "Sor'Hon, Seigneur de la Flamme",
+            "image": "https://vertylo.github.io/wakassets/monsters/190004327.png",
+            "url_monstre": "/bestiary/4327"
+        },
+        "DOMINANT": {
+            "nom": "War'Hg Gardien du Dor'Mor",
+            "image": "https://vertylo.github.io/wakassets/monsters/190004331.png",
+            "url_monstre": "/bestiary/4331"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Sar'Houmane le Prêtre de la Flamme",
+            "image": "https://vertylo.github.io/wakassets/monsters/190004330.png",
+            "url_monstre": "/bestiary/4330"
+        }
+    },
+    {
+        "id": "47",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/47",
+        "nom_donjon": "DONJON MULOU",
+        "BOSS": {
+            "nom": "Lune Géante",
+            "image": "https://vertylo.github.io/wakassets/monsters/105501792.png",
+            "url_monstre": "/bestiary/5114"
+        },
+        "DOMINANT": {
+            "nom": "Mulou-Garou Roux Grisonnant",
+            "image": "https://vertylo.github.io/wakassets/monsters/10553373.png",
+            "url_monstre": "/bestiary/5126"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Muligane le Défaussé",
+            "image": "https://vertylo.github.io/wakassets/monsters/105502130.png",
+            "url_monstre": "/bestiary/5127"
+        }
+    },
+    {
+        "id": "123",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/123",
+        "nom_donjon": "CAVERNE SMARRANTE",
+        "BOSS": {
+            "nom": "Smarillion",
+            "image": "https://vertylo.github.io/wakassets/monsters/187704231.png",
+            "url_monstre": "/bestiary/4231"
+        },
+        "DOMINANT": {
+            "nom": "Smarbon",
+            "image": "https://vertylo.github.io/wakassets/monsters/187704236.png",
+            "url_monstre": "/bestiary/4236"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Keskon Smare",
+            "image": "https://vertylo.github.io/wakassets/monsters/187704235.png",
+            "url_monstre": "/bestiary/4235"
+        }
+    },
+    {
+        "id": "48",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/48",
+        "nom_donjon": "SLIPTORIUM",
+        "BOSS": {
+            "nom": "Nonne",
+            "image": "https://vertylo.github.io/wakassets/monsters/138601786.png",
+            "url_monstre": "/bestiary/1786"
+        },
+        "DOMINANT": {
+            "nom": "Ju Pilaire",
+            "image": "https://vertylo.github.io/wakassets/monsters/138604389.png",
+            "url_monstre": "/bestiary/4389"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Alf Iguem",
+            "image": "https://vertylo.github.io/wakassets/monsters/138604388.png",
+            "url_monstre": "/bestiary/4388"
+        }
+    },
+    {
+        "id": "89",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/89",
+        "nom_donjon": "LE CAVEAU RELEVÉ",
+        "BOSS": {
+            "nom": "Morfor",
+            "image": "https://vertylo.github.io/wakassets/monsters/158102793.png",
+            "url_monstre": "/bestiary/3216"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "128",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/128",
+        "nom_donjon": "LA CRÊTE GIVRÉE",
+        "BOSS": {
+            "nom": "Cendragon",
+            "image": "https://vertylo.github.io/wakassets/monsters/189004260.png",
+            "url_monstre": "/bestiary/4260"
+        },
+        "DOMINANT": {
+            "nom": "Schistophrène",
+            "image": "https://vertylo.github.io/wakassets/monsters/189004262.png",
+            "url_monstre": "/bestiary/4262"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Fréonctueux le Gaz pas chaud",
+            "image": "https://vertylo.github.io/wakassets/monsters/189004261.png",
+            "url_monstre": "/bestiary/4261"
+        }
+    },
+    {
+        "id": "68",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/68",
+        "nom_donjon": "LE HAMMAMAMOULE",
+        "BOSS": {
+            "nom": "Bilbymoule Nacrée",
+            "image": "https://vertylo.github.io/wakassets/monsters/152802464.png",
+            "url_monstre": "/bestiary/2464"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "90",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/90",
+        "nom_donjon": "PÂTURAGES DES BOUFTOUS",
+        "BOSS": {
+            "nom": "Bouftou Royal",
+            "image": "https://vertylo.github.io/wakassets/monsters/100200044.png",
+            "url_monstre": "/bestiary/44"
+        },
+        "DOMINANT": {
+            "nom": "Bouftou Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/100204085.png",
+            "url_monstre": "/bestiary/4085"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Bouchtrou l'Esseulé",
+            "image": "https://vertylo.github.io/wakassets/monsters/100204086.png",
+            "url_monstre": "/bestiary/4086"
+        }
+    },
+    {
+        "id": "79",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/79",
+        "nom_donjon": "REPAIRE DES SUPER-VILAINS",
+        "BOSS": {
+            "nom": "Merkator",
+            "image": "https://vertylo.github.io/wakassets/monsters/153902708.png",
+            "url_monstre": "/bestiary/2708"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "10",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/10",
+        "nom_donjon": "LA TOUR GELÉE",
+        "BOSS": {
+            "nom": "Sylargh",
+            "image": "https://vertylo.github.io/wakassets/monsters/150402354.png",
+            "url_monstre": "/bestiary/2354"
+        },
+        "DOMINANT": {
+            "nom": "Mékazord le Combiné",
+            "image": "https://vertylo.github.io/wakassets/monsters/150404384.png",
+            "url_monstre": "/bestiary/4384"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Image du Comte Harebourg",
+            "image": "https://vertylo.github.io/wakassets/monsters/104702383.png",
+            "url_monstre": "/bestiary/4480"
+        }
+    },
+    {
+        "id": "80",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/80",
+        "nom_donjon": "DONJON BWORK",
+        "BOSS": {
+            "nom": "Throll",
+            "image": "https://vertylo.github.io/wakassets/monsters/158402774.png",
+            "url_monstre": "/bestiary/2774"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "125",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/125",
+        "nom_donjon": "DONJON DES ABRAKNES",
+        "BOSS": {
+            "nom": "Abraknelle",
+            "image": "https://vertylo.github.io/wakassets/monsters/182804107.png",
+            "url_monstre": "/bestiary/4107"
+        },
+        "DOMINANT": {
+            "nom": "Abraknyde Dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/182804094.png",
+            "url_monstre": "/bestiary/4094"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Abribus le Protecteur",
+            "image": "https://vertylo.github.io/wakassets/monsters/182804098.png",
+            "url_monstre": "/bestiary/4098"
+        }
+    },
+    {
+        "id": "88",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/88",
+        "nom_donjon": "LA CORBEAU-CAVE",
+        "BOSS": {
+            "nom": "Korbot K-800",
+            "image": "https://vertylo.github.io/wakassets/monsters/173603696.png",
+            "url_monstre": "/bestiary/3696"
+        },
+        "DOMINANT": {
+            "nom": "Corbiyar le Passeur",
+            "image": "https://vertylo.github.io/wakassets/monsters/106402132.png",
+            "url_monstre": "/bestiary/2132"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Smisse Tigri",
+            "image": "https://vertylo.github.io/wakassets/monsters/120201407.png",
+            "url_monstre": "/bestiary/3701"
+        }
+    },
+    {
+        "id": "25",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/25",
+        "nom_donjon": "LES CHAMPS POURCHAN",
+        "BOSS": {
+            "nom": "Plante Carnivore",
+            "image": "https://vertylo.github.io/wakassets/monsters/101601726.png",
+            "url_monstre": "/bestiary/1726"
+        },
+        "DOMINANT": {
+            "nom": "Plante Dominante",
+            "image": "https://vertylo.github.io/wakassets/monsters/101602122.png",
+            "url_monstre": "/bestiary/2122"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Rosée la matinale",
+            "image": "https://vertylo.github.io/wakassets/monsters/101600401.png",
+            "url_monstre": "/bestiary/5005"
+        }
+    },
+    {
+        "id": "208",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/208",
+        "nom_donjon": "NÉO-PIOU LAHOUPE",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "41",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/41",
+        "nom_donjon": "LA SKOUALE SÈCHE",
+        "BOSS": {
+            "nom": "Royal Skouale",
+            "image": "https://vertylo.github.io/wakassets/monsters/135902197.png",
+            "url_monstre": "/bestiary/4244"
+        },
+        "DOMINANT": {
+            "nom": "Skoualala",
+            "image": "https://vertylo.github.io/wakassets/monsters/135901693.png",
+            "url_monstre": "/bestiary/4268"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Requinoa",
+            "image": "https://vertylo.github.io/wakassets/monsters/135902117.png",
+            "url_monstre": "/bestiary/4267"
+        }
+    },
+    {
+        "id": "111",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/111",
+        "nom_donjon": "CIME DU GRAND TOTEM",
+        "BOSS": {
+            "nom": "Foul Moon",
+            "image": "https://vertylo.github.io/wakassets/monsters/143603870.png",
+            "url_monstre": "/bestiary/3870"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "185",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/185",
+        "nom_donjon": "DONJON MORTS-BRÛLÉS",
+        "BOSS": {
+            "nom": "Hark Saniss, Dernier géant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110005382.png",
+            "url_monstre": "/bestiary/5382"
+        },
+        "DOMINANT": {
+            "nom": "Mort-brûlé dominant",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110005383.png",
+            "url_monstre": "/bestiary/5383"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Protosquelette",
+            "image": "https://vertylo.github.io/wakassets/monsters/1110005384.png",
+            "url_monstre": "/bestiary/5384"
+        }
+    },
+    {
+        "id": "100",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/100",
+        "nom_donjon": "PLATEAU DES HAUT-VENTS",
+        "BOSS": {
+            "nom": "Serre d'Acier",
+            "image": "https://vertylo.github.io/wakassets/monsters/143603582.png",
+            "url_monstre": "/bestiary/3582"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "72",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/72",
+        "nom_donjon": "CHÂTEAU DU WA WABBIT",
+        "BOSS": {
+            "nom": "Wa Wabbit",
+            "image": "https://vertylo.github.io/wakassets/monsters/155602582.png",
+            "url_monstre": "/bestiary/2582"
+        },
+        "DOMINANT": {
+            "nom": "Le Chevaliew Noiw",
+            "image": "https://vertylo.github.io/wakassets/monsters/155604387.png",
+            "url_monstre": "/bestiary/4387"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Wipley la Suwvivante",
+            "image": "https://vertylo.github.io/wakassets/monsters/155602583.png",
+            "url_monstre": "/bestiary/2583"
+        }
+    },
+    {
+        "id": "86",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/86",
+        "nom_donjon": "DONJON SRAMBAD",
+        "BOSS": {
+            "nom": "Venâme le Mangelombre",
+            "image": "https://vertylo.github.io/wakassets/monsters/162903080.png",
+            "url_monstre": "/bestiary/3080"
+        },
+        "DOMINANT": {
+            "nom": "Sramoné le Chemineur",
+            "image": "https://vertylo.github.io/wakassets/monsters/162904374.png",
+            "url_monstre": "/bestiary/4374"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Disciple de Raval",
+            "image": "https://vertylo.github.io/wakassets/monsters/163403098.png",
+            "url_monstre": "/bestiary/3098"
+        }
+    },
+    {
+        "id": "85",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/85",
+        "nom_donjon": "SANCTUAIRE DE MIHMOL",
+        "BOSS": {
+            "nom": "Mihmol l'Empaleur",
+            "image": "https://vertylo.github.io/wakassets/monsters/127803048.png",
+            "url_monstre": "/bestiary/3048"
+        },
+        "DOMINANT": {
+            "nom": "Victim le Frappé",
+            "image": "https://vertylo.github.io/wakassets/monsters/127804392.png",
+            "url_monstre": "/bestiary/4392"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Mihmosa le Fleuri",
+            "image": "https://vertylo.github.io/wakassets/monsters/127804391.png",
+            "url_monstre": "/bestiary/4391"
+        }
+    },
+    {
+        "id": "84",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/84",
+        "nom_donjon": "DONJON NOIRESPORE",
+        "BOSS": {
+            "nom": "Telob le Champmane",
+            "image": "https://vertylo.github.io/wakassets/monsters/161102977.png",
+            "url_monstre": "/bestiary/2977"
+        },
+        "DOMINANT": {
+            "nom": "Hapipop l'Eclatant",
+            "image": "https://vertylo.github.io/wakassets/monsters/161104373.png",
+            "url_monstre": "/bestiary/4373"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Cêpomwé l'Innocent",
+            "image": "https://vertylo.github.io/wakassets/monsters/161104372.png",
+            "url_monstre": "/bestiary/4372"
+        }
+    },
+    {
+        "id": "74",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/74",
+        "nom_donjon": "LABORATOIRE DE WOMEWO",
+        "BOSS": {
+            "nom": "Gwand Wabbit GM",
+            "image": "https://vertylo.github.io/wakassets/monsters/155202605.png",
+            "url_monstre": "/bestiary/2605"
+        },
+        "DOMINANT": {
+            "nom": "Igow le Souffwe-Douleuw",
+            "image": "https://vertylo.github.io/wakassets/monsters/155202626.png",
+            "url_monstre": "/bestiary/4386"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Zombowabbit le putréfié",
+            "image": "https://vertylo.github.io/wakassets/monsters/155202572.png",
+            "url_monstre": "/bestiary/2743"
+        }
+    },
+    {
+        "id": "57",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/57",
+        "nom_donjon": "ANTRE DU DRAGON-COCHON",
+        "BOSS": {
+            "nom": "Dragon-Cochon",
+            "image": "https://vertylo.github.io/wakassets/monsters/143602430.png",
+            "url_monstre": "/bestiary/2430"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "129",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/129",
+        "nom_donjon": "SANCTUAIRE DES DRAGOEUFS",
+        "BOSS": {
+            "nom": "Oeuf Antique",
+            "image": "https://vertylo.github.io/wakassets/monsters/186704400.png",
+            "url_monstre": "/bestiary/4400"
+        },
+        "DOMINANT": {
+            "nom": "Dragoeuf Bis'Oeufale",
+            "image": "https://vertylo.github.io/wakassets/monsters/186704220.png",
+            "url_monstre": "/bestiary/4218"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Minibuliette",
+            "image": "https://vertylo.github.io/wakassets/monsters/186704218.png",
+            "url_monstre": "/bestiary/4220"
+        }
+    },
+    {
+        "id": "122",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/122",
+        "nom_donjon": "CAVERNE DES SLEKYMOSES",
+        "BOSS": {
+            "nom": "Reine Slek",
+            "image": "https://vertylo.github.io/wakassets/monsters/140001837.png",
+            "url_monstre": "/bestiary/4251"
+        },
+        "DOMINANT": {
+            "nom": "Slekzébuth",
+            "image": "https://vertylo.github.io/wakassets/monsters/188604281.png",
+            "url_monstre": "/bestiary/4281"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Le Slek Sy",
+            "image": "https://vertylo.github.io/wakassets/monsters/188604280.png",
+            "url_monstre": "/bestiary/4280"
+        }
+    },
+    {
+        "id": "82",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/82",
+        "nom_donjon": "FOSSE DU TOURMENTEUR",
+        "BOSS": {
+            "nom": "Spectrex le Tourmenteur",
+            "image": "https://vertylo.github.io/wakassets/monsters/127802827.png",
+            "url_monstre": "/bestiary/2827"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "209",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/209",
+        "nom_donjon": "NÉO-PAPATURAGE ROYAL",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "168",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/168",
+        "nom_donjon": "BRÈCHE DIMENSIONNELLE DE TAINÉLA",
+        "BOSS": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "6",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/6",
+        "nom_donjon": "ANTRE DU BOUFROG",
+        "BOSS": {
+            "nom": "Magmog le Boufrog",
+            "image": "https://vertylo.github.io/wakassets/monsters/100200042.png",
+            "url_monstre": "/bestiary/42"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "8",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/8",
+        "nom_donjon": "NICHE DU YECH'TI'WAWA",
+        "BOSS": {
+            "nom": "Yech'Ti'Wawa",
+            "image": "https://vertylo.github.io/wakassets/monsters/151002368.png",
+            "url_monstre": "/bestiary/2368"
+        },
+        "DOMINANT": {
+            "nom": "Corberg la Naufrageuse",
+            "image": "https://vertylo.github.io/wakassets/monsters/151004500.png",
+            "url_monstre": "/bestiary/4500"
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Fhenris le Mulmouth Solitaire",
+            "image": "https://vertylo.github.io/wakassets/monsters/151002384.png",
+            "url_monstre": "/bestiary/2384"
+        }
+    },
+    {
+        "id": "5",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/5",
+        "nom_donjon": "ANTRE DU CORBEAU NOIR",
+        "BOSS": {
+            "nom": "Corbeau Noir",
+            "image": "https://vertylo.github.io/wakassets/monsters/101101150.png",
+            "url_monstre": "/bestiary/1988"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "4",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/4",
+        "nom_donjon": "ANTRE D'EXCARNUS",
+        "BOSS": {
+            "nom": "Excarnus",
+            "image": "https://vertylo.github.io/wakassets/monsters/138901819.png",
+            "url_monstre": "/bestiary/1986"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    },
+    {
+        "id": "3",
+        "url_donjon": "https://db.methodwakfu.com/dungeons/3",
+        "nom_donjon": "ANTRE DU MEULOU",
+        "BOSS": {
+            "nom": "Milkar le Meulou",
+            "image": "https://vertylo.github.io/wakassets/monsters/105501794.png",
+            "url_monstre": "/bestiary/1987"
+        },
+        "DOMINANT": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        },
+        "ARCHIMONSTRE": {
+            "nom": "Aucun",
+            "image": null,
+            "url_monstre": null
+        }
+    }
+]
